@@ -20,7 +20,7 @@ namespace _1133321hw2
         PictureBox firstCard = null;
         PictureBox secondCard = null;
              
-        int hintCount = 1;        // 偷看的次數
+        int hintCount = 1;        //偷看的次數
 
         bool lockClick = false;   // 翻回等待時禁止點擊
         int timeCount = 0;        // 計時        
